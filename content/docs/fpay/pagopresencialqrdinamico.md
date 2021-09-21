@@ -1,7 +1,7 @@
 +++
 description = "Documentacion para la integracion de un comercion con fpay."
-title = "Pago Presencial QR Estatico"
-weight = 3
+title = "Pago Presencial QR dinamico"
+weight = 4
 
 +++
 ### Generar la intencion de pago

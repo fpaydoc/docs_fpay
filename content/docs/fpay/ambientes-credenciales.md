@@ -2,7 +2,7 @@
 title: "Ambientes y credenciales"
 weight: 2
 description: >
-  This page tells you how to get started with the Compose theme.
+  Documentacion para la integracion de un comercion con fpay.
 ---
 
 ## Inicio
